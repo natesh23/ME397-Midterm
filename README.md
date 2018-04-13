@@ -11,11 +11,9 @@ Shravan here - 2nd edit
 Is this real life? Is this just fantasy?
 Caught in a landslide
 
-This is Natesh, Shravan, Prashanth, Soundarya and Greesham
-
 Natesh doing it from terminal. Okay
 
-Lets GITit
+Lets GITit, I second this
 
 Soundarya - task 3 edit
 
