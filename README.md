@@ -1,21 +1,24 @@
-# ME397-Midterm
+# ME397-Midterm-Task 3
 
 
 Hello World - Shravan
 
-Natesh isn't here
+isn't here
 
 Prashanth says hello
 
 Shravan here - 2nd edit
-Is this real life? Is this just fantasy?
+
+Is this real life?
+
+Is this just fantasy?
+
 Caught in a landslide
 
 Natesh doing it from terminal. Okay
 
-Lets GITit, I second this
+I second this
 
 Soundarya - task 3 edit
 
 Greesham- Task 3 edit #1 on local machine and will push
-
